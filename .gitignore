@@ -1,0 +1,67 @@
+# ===============================
+# Quartus & VHDL Git Ignore File
+# Solo mantiene archivos fuente y config
+# ===============================
+
+# Archivos de compilación y temporales
+db/
+incremental_db/
+simulation/
+output_files/
+tmp-clearbox/
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.html
+*.htm
+*.eqn
+*.qws
+*.jdi
+*.qxp
+*.qdf
+*.pin
+*.ppf
+*.sld
+*.map
+*.sof
+*.pof
+*.ttf
+*.hex
+*.mif
+*.bak
+*.log
+*.qmsg
+*.qip
+*.qsf.bak
+*.qar
+*.qarlog
+*.qdz
+*.qgz
+
+# Archivos de ModelSim/Simulación
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.do
+*.ini
+*.mpf
+*.mti
+
+# Archivos de backup de Windows
+Thumbs.db
+Desktop.ini
+
+# ===============================
+# Se mantienen explícitamente:
+# *.vhd, *.vhdl   → VHDL fuente
+# *.v             → Verilog fuente (opcional)
+# *.qpf, *.qsf    → Configuración de proyecto Quartus
+# ===============================
+!*.vhd
+!*.vhdl
+!*.v
+!*.qpf
+!*.qsf
