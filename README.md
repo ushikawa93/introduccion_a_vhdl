@@ -4,7 +4,6 @@ Autor: Matías Javier Oliva
 
 Este repositorio contiene programas utilizados en el dictado de un curso introductorio a VHDL. También se incluyen las diapositivas utilizadas en el dictado de cada clase.
 
-
 En todos los temas se hará énfasis en la implementación en VHDL de las arquitecturas propuestas, suponiendo un conocimiento previo de las estructuras subyacentes.
 
 1° clase: Introducción a VHDL
