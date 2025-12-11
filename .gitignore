@@ -9,6 +9,7 @@ incremental_db/
 simulation/
 output_files/
 tmp-clearbox/
+EjFinal/
 *.rpt
 *.summary
 *.smsg
